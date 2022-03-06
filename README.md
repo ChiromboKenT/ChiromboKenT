@@ -55,7 +55,7 @@ React
      <a href="https://github.com/ChiromboKenT">
      <img  src="https://img.shields.io/badge/Github-04001E?style=for-the-badge&logo=github&logoColor=402AB2" alt="linkedin">
   <a/>&nbsp;
- <a href="https://master.d30yxg3n3cpz2a.amplifyapp.com/">
+ <a href="https://www.chiromboken.com">
      <img  src="https://img.shields.io/badge/website-04001E?style=for-the-badge&logo=about.me&logoColor=402AB2" alt="website">
   <a/> 
 <p/>
